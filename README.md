@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-System Analysis and Development Student 📚.
+I'm a System Analysis and Development Student.
 
 Python | Data Science | Data Engineering and Analytics.
 
